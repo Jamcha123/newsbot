@@ -1,0 +1,1 @@
+#newsbot - generate funny satirical news headlines
