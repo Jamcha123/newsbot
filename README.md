@@ -11,7 +11,7 @@ first install it
     npm i newsbot
 ```
 
-second create a .env file
+second create a .env file (has to be AI_KEY)
 
 ```
     AI_KEY=<your OpenAI token>
