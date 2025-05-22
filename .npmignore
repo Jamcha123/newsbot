@@ -1,1 +1,5 @@
 .env
+.npmignore
+.gitignore
+funding.yaml
+test.js
