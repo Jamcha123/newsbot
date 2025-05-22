@@ -1,6 +1,6 @@
 {
   "name": "newsbot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "newsbot is a AI funny headline generator",
   "main": "index.js",
   "type": "module",
