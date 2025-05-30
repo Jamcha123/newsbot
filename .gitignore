@@ -1,5 +1,0 @@
-.env
-node_modules
-.npmignore
-.gitignore
-test.js
